@@ -1,0 +1,489 @@
+==============================================
+# Daily Logs
+==============================================
+                                               
+Date: 03/11/2024, 12:56:12
+Method: GET
+Endpoint: /
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 12:58:00
+Method: GET
+Endpoint: /2
+Url: http://localhost:8080/api/posts/2
+-------------------------------------------
+Date: 03/11/2024, 13:03:24
+Method: GET
+Endpoint: /api/posts/1
+Url: http://localhost:8080/api/posts/1
+-------------------------------------------
+Date: 03/11/2024, 13:06:28
+Method: GET
+Endpoint: /api/notes
+Url: http://localhost:8080/api/notes
+-------------------------------------------
+Date: 03/11/2024, 16:26:25
+Method: GET
+Endpoint: /api/notes
+Url: http://localhost:8080/api/notes
+-------------------------------------------
+Date: 03/11/2024, 16:27:02
+Method: GET
+Endpoint: /api
+Url: http://localhost:8080/api
+-------------------------------------------
+Date: 03/11/2024, 16:27:09
+Method: GET
+Endpoint: /api
+Url: http://localhost:8080/api
+-------------------------------------------
+Date: 03/11/2024, 16:27:18
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 16:35:34
+Method: GET
+Endpoint: /api/2
+Url: http://localhost:8080/api/2
+-------------------------------------------
+Date: 03/11/2024, 16:36:05
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 16:36:14
+Method: GET
+Endpoint: /api/posts/2
+Url: http://localhost:8080/api/posts/2
+-------------------------------------------
+Date: 03/11/2024, 16:36:19
+Method: GET
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 16:39:10
+Method: GET
+Endpoint: /api/posts/56
+Url: http://localhost:8080/api/posts/56
+-------------------------------------------
+Date: 03/11/2024, 16:42:10
+Method: PUT
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 16:42:18
+Method: PUT
+Endpoint: /api/posts/3
+Url: http://localhost:8080/api/posts/3
+-------------------------------------------
+Date: 03/11/2024, 16:42:53
+Method: PUT
+Endpoint: /api/posts/3
+Url: http://localhost:8080/api/posts/3
+-------------------------------------------
+Date: 03/11/2024, 16:43:04
+Method: PUT
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 16:43:16
+Method: DELETE
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 16:45:40
+Method: DELETE
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 16:46:06
+Method: DELETE
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 16:46:41
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 16:47:22
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 16:47:45
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 16:51:02
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 16:51:14
+Method: POST
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 16:52:57
+Method: POST
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 16:53:27
+Method: GET
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 16:53:45
+Method: GET
+Endpoint: /api/posts/3
+Url: http://localhost:8080/api/posts/3
+-------------------------------------------
+Date: 03/11/2024, 16:54:05
+Method: PUT
+Endpoint: /api/posts/3
+Url: http://localhost:8080/api/posts/3
+-------------------------------------------
+Date: 03/11/2024, 16:54:33
+Method: PUT
+Endpoint: /api/posts/3
+Url: http://localhost:8080/api/posts/3
+-------------------------------------------
+Date: 03/11/2024, 16:54:38
+Method: PUT
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 16:55:05
+Method: DELETE
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 16:55:28
+Method: PUT
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 16:55:41
+Method: PUT
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 16:56:02
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 16:56:12
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 16:57:23
+Method: GET
+Endpoint: /
+Url: http://localhost:8080/
+-------------------------------------------
+Date: 03/11/2024, 16:57:33
+Method: GET
+Endpoint: /api/
+Url: http://localhost:8080/api/
+-------------------------------------------
+Date: 03/11/2024, 16:57:39
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 16:57:39
+Method: GET
+Endpoint: /favicon.ico
+Url: http://localhost:8080/favicon.ico
+-------------------------------------------
+Date: 03/11/2024, 16:57:57
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 16:58:28
+Method: GET
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 17:11:17
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 17:11:54
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 17:12:11
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 17:13:13
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 17:13:36
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 17:14:06
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 17:14:10
+Method: GET
+Endpoint: /api/posts/2
+Url: http://localhost:8080/api/posts/2
+-------------------------------------------
+Date: 03/11/2024, 17:14:15
+Method: GET
+Endpoint: /api/posts/5
+Url: http://localhost:8080/api/posts/5
+-------------------------------------------
+Date: 03/11/2024, 17:19:00
+Method: GET
+Endpoint: /api/posts/5
+Url: http://localhost:8080/api/posts/5
+-------------------------------------------
+Date: 03/11/2024, 17:19:27
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 17:19:37
+Method: PUT
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 17:19:50
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 17:19:59
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 17:55:11
+Method: POST
+Endpoint: /api
+Url: http://localhost:8080/api
+-------------------------------------------
+Date: 03/11/2024, 17:55:17
+Method: POST
+Endpoint: /
+Url: http://localhost:8080/
+-------------------------------------------
+Date: 03/11/2024, 17:55:20
+Method: POST
+Endpoint: /
+Url: http://localhost:8080/
+-------------------------------------------
+Date: 03/11/2024, 17:55:31
+Method: POST
+Endpoint: /api/notes
+Url: http://localhost:8080/api/notes
+-------------------------------------------
+Date: 03/11/2024, 17:57:28
+Method: POST
+Endpoint: /api/notes
+Url: http://localhost:8080/api/notes
+-------------------------------------------
+Date: 03/11/2024, 18:04:15
+Method: POST
+Endpoint: /api/notes
+Url: http://localhost:8080/api/notes
+-------------------------------------------
+Date: 03/11/2024, 18:10:06
+Method: POST
+Endpoint: /api/notes
+Url: http://localhost:8080/api/notes
+-------------------------------------------
+Date: 03/11/2024, 18:10:14
+Method: GET
+Endpoint: /api/notes
+Url: http://localhost:8080/api/notes
+-------------------------------------------
+Date: 03/11/2024, 18:10:23
+Method: PUT
+Endpoint: /api/notes
+Url: http://localhost:8080/api/notes
+-------------------------------------------
+Date: 03/11/2024, 18:10:29
+Method: DELETE
+Endpoint: /api/notes
+Url: http://localhost:8080/api/notes
+-------------------------------------------
+Date: 03/11/2024, 18:11:42
+Method: DELETE
+Endpoint: /api/notes
+Url: http://localhost:8080/api/notes
+-------------------------------------------
+Date: 03/11/2024, 18:11:44
+Method: DELETE
+Endpoint: /api/notes
+Url: http://localhost:8080/api/notes
+-------------------------------------------
+Date: 03/11/2024, 18:12:01
+Method: DELETE
+Endpoint: /api/notes
+Url: http://localhost:8080/api/notes
+-------------------------------------------
+Date: 03/11/2024, 18:43:06
+Method: DELETE
+Endpoint: /api/notes
+Url: http://localhost:8080/api/notes
+-------------------------------------------
+Date: 03/11/2024, 18:43:16
+Method: DELETE
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 18:43:21
+Method: DELETE
+Endpoint: /api/posts/4
+Url: http://localhost:8080/api/posts/4
+-------------------------------------------
+Date: 03/11/2024, 18:43:26
+Method: DELETE
+Endpoint: /api/posts/3
+Url: http://localhost:8080/api/posts/3
+-------------------------------------------
+Date: 03/11/2024, 18:43:48
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 18:44:14
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 18:45:34
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 19:30:17
+Method: GET
+Endpoint: /about
+Url: http://localhost:8080/about
+-------------------------------------------
+Date: 03/11/2024, 19:47:41
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 19:48:02
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 19:48:16
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 19:48:57
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 19:57:39
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 19:57:51
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 19:58:00
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 19:58:27
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 20:13:03
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 20:13:36
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 20:13:52
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 20:14:40
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 20:17:42
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 20:18:11
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 20:18:33
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 20:22:25
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 20:22:31
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 20:22:31
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 20:22:46
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 03/11/2024, 20:22:46
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 1/15/2025, 5:05:42 AM
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------

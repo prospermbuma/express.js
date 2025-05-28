@@ -1,0 +1,95 @@
+/* ========================================
+# Navigation | Header
+======================================== */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1030;
+    height: 80px;
+    background: #efefee;
+}
+
+.navbar .navbar-brand {
+    margin-left: 80px;
+}
+
+.navbar .navbar-brand .navbrand-logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.navbar .navbar-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    margin-left: 20px;
+    margin-right: auto;
+}
+
+.navbar .navbar-nav .nav-item {
+    list-style: none;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+    text-decoration: none;
+    font-size: 17px;
+    color: #333;
+    font-weight: 450;
+    transition: all .3s;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover {
+    opacity: 0.5;
+}
+
+.navbar .navbar-nav .nav-item .nav-link.active {
+    color: #0066ba;
+    font-weight: 650;
+}
+
+.navbar .navbar-nav .nav-item .nav-link.active:hover {
+    color: #333;
+}
+
+.navbar .navbar-btns {
+    margin-right: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.7em;
+}
+
+.navbar .navbar-btns .btn-sign-in,
+.navbar .navbar-btns .btn-sign-up {
+    text-decoration: none;
+    transition: all .3s;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.navbar .navbar-btns .btn-sign-in {
+    color: #333;
+}
+
+.navbar .navbar-btns .btn-sign-in:hover {
+    opacity: 0.6;
+}
+
+.navbar .navbar-btns .btn-sign-up {
+    color: #0066ba;
+    border: 2px solid #0066ba;
+    padding: 12px 34px;
+    border-radius: 30px;
+}
+
+.navbar .navbar-btns .btn-sign-up:hover{
+    color: #fff;
+    background:#0066ba;
+}

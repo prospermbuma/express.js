@@ -1,0 +1,23 @@
+<!-- === Header === -->
+<%- include('partials/header.ejs') %>
+
+    <!-- === Body === -->
+    <main>
+        <section>
+            <div class="container">
+                <h1>
+                    <%= message %>
+                </h1>
+                <ul>
+                    <% contacts.forEach(contact=> { %>
+                        <li>
+                            <%= contact %>
+                        </li>
+                        <% }); %>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <!-- === Footer === -->
+    <%- include('partials/footer.ejs') %>
