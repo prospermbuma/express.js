@@ -487,3 +487,63 @@ Method: GET
 Endpoint: /api/posts
 Url: http://localhost:8080/api/posts
 -------------------------------------------
+Date: 6/5/2025, 2:14:35 AM
+Method: GET
+Endpoint: /favicon.ico
+Url: http://localhost:8080/favicon.ico
+-------------------------------------------
+Date: 6/5/2025, 2:14:39 AM
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 6/5/2025, 2:14:48 AM
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 6/5/2025, 2:14:48 AM
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 6/5/2025, 2:14:56 AM
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 6/5/2025, 2:15:20 AM
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 6/5/2025, 2:15:28 AM
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 6/5/2025, 2:15:30 AM
+Method: GET
+Endpoint: /favicon.ico
+Url: http://localhost:8080/favicon.ico
+-------------------------------------------
+Date: 6/5/2025, 2:15:35 AM
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 6/5/2025, 2:16:08 AM
+Method: POST
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 6/5/2025, 2:16:08 AM
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
+Date: 6/5/2025, 2:16:17 AM
+Method: GET
+Endpoint: /api/posts
+Url: http://localhost:8080/api/posts
+-------------------------------------------
