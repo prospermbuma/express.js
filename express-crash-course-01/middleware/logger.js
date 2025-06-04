@@ -10,7 +10,7 @@ const logger = (req, res, next) => {
         DELETE: 'red',
     };
 
-    const color = methodColors[req.method] || white;
+    const color = methodColors[req.method] || 'white';
 
     const appendFile = async () => {
         try {
